@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://telegram.dog/UC_bot_channel",
-  "website": "https://telegram.dog/UC_bot_channel",
-  "repository": "https://github.com/idkgj1233/SC-Video-Compressor-Bot",
+  "success_url": "https://github.com/Rajrohit000666/SC-Video-Compressor-Bot",
+  "website": "https://github.com/Rajrohit000666",
+  "repository": "https://github.com/Rajrohit000666/SC-Video-Compressor-Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
